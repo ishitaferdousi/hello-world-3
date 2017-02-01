@@ -1,2 +1,4 @@
 # hello-world-3
-beginners excersize
+
+beginners excersize.
+trying out on memory.
